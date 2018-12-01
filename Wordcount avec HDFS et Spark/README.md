@@ -1,0 +1,1 @@
+Le programme de word count réalisé avec Spark en communication avec des données(shakespear.txt) stockées dans HDFS sur quickVM de cloudera. 
